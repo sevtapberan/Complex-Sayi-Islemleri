@@ -1,0 +1,12 @@
+c:\users\admin\documents\visual studio 2015\Projects\NYPL24022017\NYPL24022017\bin\Debug\NYPL24022017.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\NYPL24022017\NYPL24022017\bin\Debug\NYPL24022017.exe
+c:\users\admin\documents\visual studio 2015\Projects\NYPL24022017\NYPL24022017\bin\Debug\NYPL24022017.pdb
+c:\users\admin\documents\visual studio 2015\Projects\NYPL24022017\NYPL24022017\obj\Debug\NYPL24022017.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\NYPL24022017\NYPL24022017\obj\Debug\NYPL24022017.exe
+c:\users\admin\documents\visual studio 2015\Projects\NYPL24022017\NYPL24022017\obj\Debug\NYPL24022017.pdb
+C:\Users\BERAN\Desktop\c#\NYPL24022017\NYPL24022017\bin\Debug\NYPL24022017.exe.config
+C:\Users\BERAN\Desktop\c#\NYPL24022017\NYPL24022017\obj\Debug\NYPL24022017.exe
+C:\Users\BERAN\Desktop\c#\NYPL24022017\NYPL24022017\obj\Debug\NYPL24022017.pdb
+C:\Users\BERAN\Desktop\2019 Herşey\SevtapHerşey\2017Güz\sevtap Herşey\c#\NYPL24022017\NYPL24022017\bin\Debug\NYPL24022017.exe.config
+C:\Users\BERAN\Desktop\2019 Herşey\SevtapHerşey\2017Güz\sevtap Herşey\c#\NYPL24022017\NYPL24022017\obj\Debug\NYPL24022017.exe
+C:\Users\BERAN\Desktop\2019 Herşey\SevtapHerşey\2017Güz\sevtap Herşey\c#\NYPL24022017\NYPL24022017\obj\Debug\NYPL24022017.pdb
